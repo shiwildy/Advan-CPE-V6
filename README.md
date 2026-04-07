@@ -2,6 +2,7 @@
 WebUI modding kit for **Advan CPE V6**.
 
 ## Disclaimer
+- This project is provided for educational and research purposes only.
 - Use at your own risk.
 - Replacing WebUI files incorrectly may break the router interface.
 - Always create a backup before deployment.
